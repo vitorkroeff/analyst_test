@@ -1,138 +1,138 @@
-ID;Nome;CPF/CNPJ;Telefone;Email;Endereço;Cidade;CEP
-1;Clarice Cardoso;301.827.564-08;(084) 5885 4087;pintolivia@da.br;Residencial Mendes;Araújo de da Cruz;38365335
-2;Srta. Bruna Farias;07.598.431/0001-40;+55 (081) 4882-9021;asales@peixoto.org;Vereda Carolina Fernandes, 8;da Mata;07167-641
-3;Stephany Pinto;917.854.206-58;+55 81 7485-6471;larada-conceicao@da.br;Colônia Araújo, 9;Alves;35476522
-4;Eloah Costela;721.563.904-52;+55 61 5539-7299;salesbreno@aragao.com;Lago Monteiro, 565;Pires do Galho;32693-568
-5;Heloísa Moreira;967.120.345-07;(041) 4787 0410;duartelucca@uol.com.br;Recanto Ana Carolina Novaes, 20;Rodrigues da Serra;92806078
-6;Lucca da Paz;107.689.342-22;31 9027 6898;cda-mata@gomes.com;Viela Nascimento;Duarte;58659-419
-7;Theo Rezende;654.129.380-51;+55 61 9690 2680;mendesmarcela@yahoo.com.br;Conjunto Teixeira, 74;da Conceição Grande;61301-998
-8;Davi Lucas Pereira;047.856.139-39;+55 (071) 4431 4864;dsilveira@correia.com;Avenida Lorenzo Martins, 944;Castro;62895309
-9;Fernando Souza;241.750.689-02;0300-585-0292;helena32@ig.com.br;Recanto de Rezende;da Mota;50103-507
-10;Sra. Clarice Moura;071.453.289-41;(071) 6551-9407;caldeiraluna@gmail.com;Loteamento da Luz, 85;Vieira;74592069
-11;Bárbara Moreira;192.835.067-40;+55 (071) 3268 3871;valentina91@yahoo.com.br;Trevo de Moreira, 82;Santos;30833865
-12;Cauã Moreira;618.395.470-57;84 8001-0949;ldias@ig.com.br;Distrito Nogueira, 75;Barbosa;35638-529
-13;Carolina da Conceição;149.785.203-04;71 9195-8609;freitaserick@carvalho.net;Viaduto Diogo Pinto, 60;da Paz Paulista;15247339
-14;Alexia Ribeiro;860.534.971-93;(031) 5743 7210;ana-beatriz16@ig.com.br;Viela Igor Barros;Aragão;51215939
-15;Nicole Gomes;63.201.748/0001-72;(071) 6184 7402;luigibarros@gomes.org;Praia da Mata, 42;Ferreira;72590-897
-16;Matheus Barros;951.804.736-75;31 8600-5524;salesluana@da.com;Loteamento Lucca Almeida, 16;Freitas do Galho;49269171
-17;Lavínia Carvalho;216.834.970-31;(011) 0023-6394;salesrebeca@bol.com.br;Passarela Oliveira;Costela;30428363
-18;Miguel Carvalho;025.376.894-29;0300 014 4536;mjesus@sales.br;Travessa de Rezende, 110;Aragão Paulista;90685479
-19;Manuela Duarte;409.615.283-89;+55 (081) 6262-2436;correiapedro@gmail.com;Campo Fernando Moraes, 2;da Rocha;94177994
-20;Marcelo Duarte;194.028.563-15;(031) 8360 3651;barroscalebe@nunes.com;Pátio de Teixeira;Freitas;06607-101
-21;Júlia Nunes;710.439.826-04;+55 51 1356 0715;amandaviana@hotmail.com;Morro Aragão, 923;da Cruz;91316-312
-22;Dra. Maria Luiza Porto;362.401.579-61;(021) 5860-6856;joaofernandes@yahoo.com.br;Estrada Antônio Costa, 65;Monteiro;10671350
-23;Miguel Cunha;746.931.520-99;+55 11 7101-9121;mmendes@sales.com;Pátio Novaes, 466;Cardoso de Nogueira;16709-464
-24;Olivia Aragão;238.017.564-08;(021) 2455 7915;da-motaalexandre@caldeira.org;Área de Ferreira, 245;da Conceição;69797-004
-25;Daniel da Conceição;364.719.528-64;(051) 0540 0130;bernardodias@uol.com.br;Feira de Costa, 883;Oliveira;10178-253
-26;Vinicius Cardoso;056.941.387-75;61 5694 5069;da-pazsophie@hotmail.com;Rodovia de Gomes, 23;Pinto de Cardoso;70305566
-27;Breno Nunes;598.437.162-64;+55 (051) 0123-8313;hsilva@da.br;Núcleo Pedro Lucas Novaes, 39;Porto de Duarte;41932884
-28;Vitória Rocha;294.751.630-34;+55 71 4788 5092;lorenzosales@araujo.br;Campo Barros, 55;Nascimento Grande;38485692
-29;Dr. Enzo Sales;290.375.841-79;+55 (041) 3674 7530;rebecasilva@hotmail.com;Feira Caldeira, 46;Teixeira do Amparo;18211-843
-30;Milena Nunes;216.589.743-28;+55 61 8803-5591;benjamincorreia@freitas.com;Rua de Aragão, 94;Moraes de Ribeiro;37586-946
-31;Isaac Pinto;473.905.216-43;+55 51 9569 0687;helenaviana@uol.com.br;Quadra de Silveira, 2;Barros;05756-175
-32;Luiz Henrique Ferreira;392.645.870-47;+55 (084) 8776 8605;pedro-henriquefogaca@rezende.com;Jardim de Peixoto;da Cunha do Oeste;43658634
-33;Luiz Miguel Monteiro;421.057.396-52;+55 (051) 3190 4606;lara29@fogaca.br;Área Rezende, 782;Carvalho da Praia;31791-723
-34;Dr. Kaique Moura;024.175.368-62;+55 71 8358-3055;marcelada-cunha@moraes.com;Praça da Luz, 1;Cunha de Gomes;78186140
-35;Elisa Farias;673.129.450-07;+55 61 1216-9437;rfogaca@sales.br;Praia de da Mata;Castro Paulista;98535398
-36;Ana Cardoso;068.379.245-83;0500 599 0268;julia81@gomes.org;Trevo Vitor Hugo Costela, 37;Jesus;41650-771
-37;Srta. Nicole da Costa;089.542.167-49;+55 81 2111-8163;manuela40@goncalves.com;Passarela Melo, 87;Almeida;86179-051
-38;Henrique Campos;938.604.152-98;+55 (051) 8745-3836;scorreia@porto.org;Estação de Ramos;Vieira;25839-010
-39;Maria Vitória Novaes;496.371.802-22;0300-425-2270;da-cunhaana-laura@hotmail.com;Avenida Carolina Carvalho;Lima;32659354
-40;Dr. João Vitor Freitas;057.921.634-99;+55 (084) 2374 7459;alexia61@correia.org;Praia Julia Carvalho, 49;Rocha;24769-166
-41;Isadora Barros;417.590.268-67;+55 21 3819-4780;luigi28@pinto.com;Avenida de Rodrigues, 52;Correia;13641301
-42;Carolina Oliveira;265.104.783-07;71 7904 7395;da-luzrodrigo@hotmail.com;Passarela de Rezende, 92;Rodrigues;34762531
-43;Letícia Carvalho;076.829.145-30;81 4898 7617;fpeixoto@bol.com.br;Aeroporto João Guilherme Alves, 907;Fogaça;80367-134
-44;Sr. Lucca Fernandes;15.783.264/0001-36;+55 21 7558 8389;hbarbosa@hotmail.com;Trevo Gustavo Fernandes, 372;da Mata do Galho;93943-067
-45;Valentina Costa;850.469.321-05;+55 84 6994-8914;ilima@teixeira.br;Alameda Lara Rocha, 5;da Luz;37135-089
-46;Dra. Marina Moreira;792.613.450-34;+55 81 9475 5767;da-luzguilherme@ig.com.br;Vila de Alves, 24;Jesus de Goiás;13049917
-47;Ana Julia da Luz;07.948.215/0001-88;+55 (071) 2290 3780;raquelfreitas@hotmail.com;Estação de Nogueira, 85;Azevedo;76367962
-48;Sra. Maria Sophia Caldeira;690.854.312-98;+55 (081) 2894 2672;ribeirodavi-luiz@moraes.com;Alameda da Cunha, 92;Campos da Mata;79653608
-49;Dra. Nina Moraes;369.825.041-15;0900-922-2879;danilocampos@cardoso.net;Lagoa Porto, 451;da Cunha de Castro;45849664
-50;Joana Ribeiro;134.970.658-20;(011) 8197-8867;enzo09@nogueira.org;Travessa João Felipe Nascimento, 71;Dias;37153171
-51;Lara Viana;209.487.153-32;+55 (071) 4547-4389;kevin48@hotmail.com;Chácara de Porto, 47;Ferreira do Amparo;70293-951
-52;Marina Cavalcanti;807.953.142-05;+55 (011) 3264 4294;evelyndias@oliveira.br;Via Ana Julia Freitas, 16;Nunes;48458546
-53;João Pedro Duarte;126.493.078-03;+55 51 1786 6551;andrecunha@ig.com.br;Viela Caldeira, 86;Lima;62608821
-54;Augusto Moraes;640.157.293-07;(061) 7580-6929;portoclara@uol.com.br;Quadra Ribeiro;Moraes Verde;86740-632
-55;Luiz Miguel Almeida;209.457.368-00;(021) 3738-8685;manuela17@da.net;Núcleo Cunha, 1;Novaes;40370-466
-56;Bruno da Cunha;426.509.378-74;+55 21 2411-5410;julianada-mota@ig.com.br;Trecho Vieira, 97;Moreira do Norte;33604407
-57;Rodrigo Rocha;726.805.193-02;+55 (021) 6909-4359;joao-lucas84@bol.com.br;Chácara Ribeiro;Vieira Verde;89529511
-58;Bruno Pinto;867.251.034-80;+55 81 5219-8364;antonio31@da.net;Campo Kevin Carvalho, 37;Rezende;28786-986
-59;Davi Almeida;12.406.753/0001-80;(084) 4360-3893;das-neveskamilly@jesus.com;Lago Dias, 146;Peixoto;65518-846
-60;Cecília Novaes;397.815.246-00;+55 (041) 1605 3673;valentina20@campos.org;Pátio Gabriela Caldeira, 311;Nogueira;06960-030
-61;Rebeca Novaes;409.781.536-93;+55 61 1562-0768;barbosaluiz-henrique@santos.com;Esplanada de da Paz, 10;Gomes de Goiás;00728-421
-62;Pedro Henrique Teixeira;471.085.296-02;(071) 3289-6246;ana-sophiaalves@oliveira.com;Largo de Pires, 23;Fernandes do Norte;02999-091
-63;Cecília Rocha;43.876.251/0001-47;+55 (011) 3329 9139;ana-livia28@ramos.br;Via de Jesus, 17;Alves de Jesus;64872-317
-64;Sr. Yago Barros;758.309.164-01;+55 (041) 4616-5033;felipe10@bol.com.br;Trecho Gonçalves, 55;Ramos de Jesus;02663-783
-65;Rodrigo da Cunha;12.603.458/0001-14;+55 81 0756 8133;rezendemariane@yahoo.com.br;Esplanada de Pires;Duarte do Norte;42957008
-66;Natália Nunes;380.465.917-93;+55 (084) 6906-4631;isabel96@ig.com.br;Jardim Ian Lima, 74;Moraes;82538-669
-67;Guilherme Azevedo;52.768.394/0001-26;71 4941-3835;pintoisabelly@fogaca.com;Estação Levi da Cruz, 3;Peixoto do Amparo;51922-680
-68;Davi Lucca Araújo;846.952.037-74;11 0745-8110;silvaclara@gmail.com;Conjunto Rodrigues, 21;Lima;06430-668
-69;Luiz Felipe Pinto;514.983.270-79;(081) 2070-8195;juliana12@azevedo.br;Campo de Teixeira, 38;Azevedo;76334852
-70;Yago da Rocha;90.462.138/0001-03;+55 71 8377-2320;juliana35@bol.com.br;Estrada Moura, 65;Souza;73124283
-71;Júlia Moura;201.674.583-53;(011) 9252 8436;piresrafael@gomes.com;Praça Pedro Miguel da Costa;Moraes de Moraes;52823861
-72;Melissa Cavalcanti;73.510.896/0001-22;+55 (061) 4547-8080;breno52@ig.com.br;Passarela de Ferreira, 8;Nunes de Cardoso;08776856
-73;Isadora Farias;17.280.593/0001-90;+55 (031) 7258-4029;ramosgiovanna@uol.com.br;Vale Rocha, 30;Pereira do Oeste;24670-477
-74;Ian Cunha;671.952.408-94;(021) 5125 4638;luigipinto@bol.com.br;Quadra Noah Sales;da Mota;00821-614
-75;Dra. Isabel Gomes;437.051.986-10;11 3527-6418;goncalvespietra@uol.com.br;Vila Silveira, 80;da Rosa;49145519
-76;André Farias;839.407.562-29;+55 21 5056-5028;souzaamanda@cunha.net;Fazenda de Teixeira;Barros;98555921
-77;Luiz Fernando Sales;406.359.728-83;81 1904-2575;nataliamendes@bol.com.br;Morro Luiz Miguel Barros, 17;da Paz de Jesus;97675-608
-78;Emanuella Silveira;819.263.475-28;31 0901-6270;rrodrigues@yahoo.com.br;Vereda Caldeira;Correia do Galho;30343580
-79;Luiz Gustavo Ferreira;924.615.870-94;+55 41 1240 9170;cardosoclara@yahoo.com.br;Setor de Monteiro, 51;da Cruz do Sul;81788867
-80;Bruna Novaes;875.430.219-60;+55 21 4820-0837;araujojoao-gabriel@ig.com.br;Morro de da Cruz, 49;Ramos;05416334
-81;Pietra Peixoto;793.601.854-93;+55 (021) 9811 5904;da-luzleandro@souza.br;Ladeira Nascimento;Novaes de Rezende;88181731
-82;Maria Cecília Almeida;123.460.975-43;+55 (071) 5669-8441;xda-cunha@da.com;Condomínio de Duarte, 817;Lima Grande;77165-696
-83;Dr. Murilo Rezende;579.210.386-03;+55 (031) 7745 7315;djesus@silveira.br;Esplanada de Monteiro, 3;da Conceição Paulista;11503-723
-84;Ian Azevedo;957.236.081-77;71 6354-6780;da-matajulia@yahoo.com.br;Recanto Freitas;Rezende Alegre;34425789
-85;Cecília Gonçalves;79.380.421/0001-45;0300 286 4028;breno80@uol.com.br;Área de Lopes, 28;Ferreira das Flores;48372-165
-86;Yuri Jesus;23.504.961/0001-39;+55 (084) 2085-8150;eloahnascimento@ig.com.br;Trecho de Correia, 27;Santos;39708168
-87;Sr. Theo Rezende;873.269.540-38;11 0843-4034;joao-felipe42@farias.br;Feira de da Cruz, 124;Lima da Praia;79254612
-88;Luiz Henrique da Rocha;283.106.574-71;0500-848-8899;pedro-lucasda-cruz@martins.br;Alameda Alves, 85;da Rocha do Campo;09622509
-89;Isabelly Martins;140.293.567-61;51 0566 1537;bfogaca@hotmail.com;Favela de Cavalcanti, 77;Gonçalves;35581679
-90;Srta. Maria Sophia Cunha;036.587.941-00;(084) 0442 0830;camposenzo-gabriel@teixeira.com;Campo Rezende, 42;da Mota do Sul;41772082
-91;Heitor da Costa;273.980.615-95;+55 84 4435-6565;hviana@yahoo.com.br;Morro de Nogueira;Freitas;10507420
-92;Gabrielly Monteiro;65.031.279/0001-16;0300-623-1979;moraesmarina@hotmail.com;Ladeira de Lima, 432;Azevedo das Flores;40799-929
-93;Juliana Cardoso;506.482.719-94;(081) 2704 1219;pereiraemanuella@campos.net;Campo de Azevedo, 78;Gonçalves do Amparo;77405-337
-94;Rafael da Luz;04.352.671/0001-72;81 9725-4380;alexia56@yahoo.com.br;Núcleo de Rodrigues, 3;Barbosa de Rezende;31769-452
-95;Lívia Aragão;341.907.562-61;+55 (061) 2298 0124;helena05@yahoo.com.br;Via de Almeida, 31;Cunha do Galho;81546-205
-96;Dra. Laís Moraes;403.978.562-29;+55 (084) 7289 1974;castrogabriela@lopes.net;Área Carlos Eduardo Vieira, 617;Castro;49977-358
-97;Dr. Renan Dias;39.275.861/0001-18;51 5698 8205;daniloda-mata@hotmail.com;Trecho da Rocha, 7;Ramos;15691270
-98;Eduardo Cardoso;647.150.283-44;+55 41 1490 1171;rmartins@gmail.com;Favela de Castro;Castro de Moura;63390691
-99;Sra. Maria Cecília da Costa;896.154.073-48;+55 (021) 8589-3859;da-pazmelissa@uol.com.br;Área de da Costa, 85;Cavalcanti;69358-422
-100;Pietro Fernandes;10.678.394/0001-95;(081) 8467 2065;cardosovinicius@teixeira.net;Condomínio Enzo Rezende, 10;Santos de Moreira;71332-916
-101;Nicole Araújo;105.764.982-11;(084) 8095 7702;bruno42@martins.br;Largo Elisa Ribeiro;Fernandes de Viana;97419-750
-102;Caroline da Costa;901.624.573-16;0300 842 8669;gustavo-henriquepinto@da.br;Feira de da Luz, 78;Aragão;58023-809
-103;Davi Luiz da Rocha;42.709.163/0001-98;(081) 1265 9519;fernandesisis@alves.com;Via de Melo;Gonçalves de Viana;45768112
-104;Sra. Helena Moraes;654.721.039-16;(041) 2908-6649;elisaalves@fogaca.br;Residencial Costa, 26;Costa;27222685
-105;Levi das Neves;906.845.132-42;+55 41 0615-4659;rafaela92@yahoo.com.br;Trecho de da Luz, 69;Azevedo Alegre;45751645
-106;Dr. Noah Aragão;752.408.319-04;+55 81 8505 1279;novaesluiza@da.com;Distrito Renan Sales;Silva Verde;97986672
-107;Dr. Breno Dias;196.704.352-34;0800 006 0139;vianaheloisa@bol.com.br;Núcleo Pietro da Costa;da Mata;53984510
-108;Joaquim Nogueira;516.278.039-12;51 4960 9197;xlima@ig.com.br;Lago Barbosa, 4;Costela Verde;55783710
-109;Matheus Azevedo;903.721.648-03;(041) 6490 9862;marcelo92@moura.br;Estrada Carvalho, 40;Pinto;88833979
-110;Sr. Leandro Caldeira;835.760.492-74;+55 (071) 0923 9608;moraesgabriela@yahoo.com.br;Via Daniela Castro, 22;da Paz das Flores;60537-742
-111;Luigi Vieira;518.407.396-57;+55 84 8038 8010;lopesisadora@teixeira.org;Distrito de Monteiro, 67;Teixeira;38846699
-112;Dr. André Castro;031.859.724-14;41 1246 8673;rebecaoliveira@uol.com.br;Distrito Emanuella Monteiro, 63;Nascimento;62307854
-113;Bernardo Jesus;293.710.654-43;+55 21 2961-5365;julia31@da.net;Ladeira Gabriel Rodrigues, 24;Fogaça;24465941
-114;Gustavo Henrique Gomes;894.376.250-00;(051) 8348-5330;lorena88@oliveira.com;Rua de da Rosa, 230;da Costa da Praia;78471273
-115;Luigi Duarte;413.690.825-33;+55 (081) 1645 4913;samuel51@lopes.com;Trecho de Mendes, 7;da Costa;46971-620
-116;Maria Sophia Nogueira;791.025.436-99;31 5815 4315;lara16@hotmail.com;Estrada Duarte, 86;Oliveira;40948156
-117;Isabelly da Paz;241.780.356-90;(071) 2429-6974;cmoreira@pereira.br;Viela Cavalcanti;da Costa;75144-396
-118;Rafael Moreira;879.521.034-23;+55 (081) 4702 4803;lopesnina@monteiro.com;Viaduto de Almeida, 8;Moura;54563-324
-119;Guilherme Porto;042.158.936-15;+55 21 3689 2674;yazevedo@gmail.com;Área Pedro Henrique Aragão, 45;Ramos de Farias;33339-764
-120;Thiago Teixeira;209.185.467-02;(031) 4103-2618;caioda-rocha@uol.com.br;Largo Alves, 271;Castro;80961-329
-121;Vinicius da Paz;082.675.914-94;11 0528-5238;cardosolara@alves.br;Campo de Carvalho, 1;Costela Paulista;59592833
-122;Ana Luiza Barbosa;147.362.509-25;+55 31 7990 6203;acaldeira@aragao.br;Parque Eduardo Cunha;da Costa Alegre;56460-091
-123;Cauê Santos;104.583.297-97;0500-166-1896;caldeirasarah@uol.com.br;Chácara de Novaes, 84;Santos;77484-256
-124;João Felipe Araújo;427.805.396-74;21 1898 1702;brunamoraes@da.com;Jardim de Farias, 30;Sales do Norte;14105598
-125;Ryan Correia;073.821.649-69;+55 (084) 5778 8318;souzajoao-vitor@cunha.net;Núcleo Dias, 80;da Cruz;10422-893
-126;Maitê da Paz;648.912.350-98;0500-177-1686;bruna87@martins.com;Aeroporto Samuel Cavalcanti, 11;Cavalcanti;70910095
-127;Vitor Gabriel da Rosa;45.029.316/0001-44;+55 (071) 8659-7737;henriquejesus@yahoo.com.br;Avenida Maysa Fogaça, 60;Cardoso;83600-075
-128;Julia Farias;932.518.467-28;+55 84 5024-0859;luigipereira@freitas.net;Vereda de Rodrigues, 27;da Costa da Serra;86664-958
-129;Fernando Nogueira;821.790.354-97;51 0013 2862;ana-carolinadias@da.com;Setor de Duarte;da Rosa Grande;04790600
-130;Sr. Davi Lucas Novaes;346.921.508-15;+55 41 3226 8246;catarinarezende@souza.com;Recanto Barros, 21;Barros das Flores;25447184
-131;Cecília Mendes;904.785.263-00;+55 71 6977 0926;eda-cruz@bol.com.br;Jardim de da Rocha, 17;Nunes;66268-058
-132;Antônio Campos;865.214.390-06;+55 11 9666 5179;njesus@da.br;Área Azevedo, 540;Barros;71879-782
-133;Dr. Noah Silveira;947.025.836-38;(071) 8110 7940;teixeiragabriel@gmail.com;Núcleo Esther Nogueira;Carvalho do Galho;20011-856
-134;Calebe Santos;51.270.483/0001-85;+55 41 8010-9834;araujoana-julia@fernandes.org;Condomínio Rodrigues, 6;Gonçalves;47723488
-135;Srta. Eloah Campos;169.482.503-51;0800-627-5952;pdas-neves@mendes.net;Alameda Araújo, 9;Ramos;34968979
-136;Enzo Fogaça;541.763.820-07;+55 81 0777-2588;mlopes@bol.com.br;Praia de Santos, 19;Farias;69947-158
-137;Dra. Isabella Teixeira;30.861.529/0001-60;+55 21 8762-6519;iancorreia@ig.com.br;Passarela de Lopes, 65;da Conceição;61947-080
+id;name;register_number;phone;email;address;city;zip_code
+1;Cliente 1;05533520586545;(40) 3401-5150;cliente1@example.com;Rua Tiradentes, 926;Pinhais;54289891
+2;Cliente 2;61776869155;(56) 4159-1288;cliente2@example.com;Rua Tiradentes, 645;Londrina;38512465
+3;Cliente 3;49673738036;(58) 1754-9916;cliente3@example.com;Avenida Brasil, 612;Colombo;83603862
+4;Cliente 4;25088129389;(57) 3961-6581;cliente4@example.com;Avenida Brasil, 833;Pinhais;13934914
+5;Cliente 5;44825940568;(25) 8624-4927;cliente5@example.com;Rua XV de Novembro, 676;Pinhais;16725112
+6;Cliente 6;47627119053;(75) 3151-1305;cliente6@example.com;Rua das Hortansias, 653;Foz do Iguacu;27215579
+7;Cliente 7;7,01487E+13;(53) 2075-1487;cliente7@example.com;Rua das Hortansias, 441;Foz do Iguacu;28706241
+8;Cliente 8;4,9706E+13;(46) 7810-2203;cliente8@example.com;Rua Tiradentes, 110;Cascavel;13136297
+9;Cliente 9;60599884310;(30) 9277-5934;cliente9@example.com;Rua das Flores, 915;Maringa;01789191
+10;Cliente 10;4,991E+13;(40) 2868-6877;cliente10@example.com;Rua das Hortansias, 22;Ponta Grossa;80278029
+11;Cliente 11;23443079319;(57) 8097-4243;cliente11@example.com;Rua das Palmeiras, 9;Cascavel;51878833
+12;Cliente 12;3,44933E+13;(65) 6307-6756;cliente12@example.com;Avenida Brasil, 99;Araucaria;49173667
+13;Cliente 13;20057497083;(77) 3204-7308;cliente13@example.com;Rua das Flores, 417;Ponta Grossa;39707075
+14;Cliente 14;93475852993;(22) 2452-6086;cliente14@example.com;Rua das Flores, 253;Sao Jose dos Pinhais;39145912
+15;Cliente 15;72945835891;(58) 5311-6405;cliente15@example.com;Rua das Araucarias, 654;Londrina;23604891
+16;Cliente 16;6,80111E+13;(96) 8563-4184;cliente16@example.com;Rua Tiradentes, 459;Maringa;53395067
+17;Cliente 17;5,29772E+13;(54) 1711-5031;cliente17@example.com;Rua das Flores, 121;Londrina;59934996
+18;Cliente 18;62068151262;(24) 7125-9696;cliente18@example.com;Avenida Marechal Floriano, 95;Foz do Iguacu;53149270
+19;Cliente 19;2,63408E+13;(59) 8401-7082;cliente19@example.com;Rua das Flores, 839;Pinhais;76907546
+20;Cliente 20;7,47174E+13;(81) 5932-2357;cliente20@example.com;Rua das Araucarias, 600;Ponta Grossa;90815475
+21;Cliente 21;79458931339;(56) 1850-6435;cliente21@example.com;Avenida Marechal Floriano, 14;Foz do Iguacu;46588856
+22;Cliente 22;20388263570;(27) 5067-1438;cliente22@example.com;Rua Sao Paulo, 671;Sao Jose dos Pinhais;37818466
+23;Cliente 23;29071981402;(64) 5447-4292;cliente23@example.com;Rua das Palmeiras, 56;Ponta Grossa;19100692
+24;Cliente 24;3,4939E+13;(94) 3530-2990;cliente24@example.com;Rua Tiradentes, 463;Foz do Iguacu;60530383
+25;Cliente 25;81079772207;(59) 4688-3096;cliente25@example.com;Rua Tiradentes, 236;Colombo;14033116
+26;Cliente 26;1,55627E+13;(85) 9025-4421;cliente26@example.com;Rua Sao Paulo, 782;Pinhais;21086993
+27;Cliente 27;54680828283;(22) 1097-9768;cliente27@example.com;Rua das Hortansias, 831;Londrina;53225106
+28;Cliente 28;85285486233;(11) 8364-8256;cliente28@example.com;Rua das Araucarias, 209;Londrina;76855248
+29;Cliente 29;5,36932E+13;(77) 4624-3500;cliente29@example.com;Rua Sao Paulo, 636;Araucaria;68042763
+30;Cliente 30;04908663664859;(93) 8729-3888;cliente30@example.com;Rua Sao Paulo, 349;Araucaria;20930141
+31;Cliente 31;63021294312;(21) 2048-3401;cliente31@example.com;Rua das Flores, 456;Curitiba;42620180
+32;Cliente 32;7,76356E+13;(69) 2380-2303;cliente32@example.com;Rua Tiradentes, 989;Araucaria;75246808
+33;Cliente 33;9,68083E+13;(77) 5524-4065;cliente33@example.com;Avenida Marechal Floriano, 601;Curitiba;56635471
+34;Cliente 34;21263283385;(58) 1875-3089;cliente34@example.com;Rua das Hortansias, 582;Sao Jose dos Pinhais;94888682
+35;Cliente 35;1,70514E+13;(96) 3874-4660;cliente35@example.com;Rua dos Ipes, 675;Curitiba;57001937
+36;Cliente 36;08804605726259;(12) 4523-2448;cliente36@example.com;Rua das Flores, 563;Colombo;05258977
+37;Cliente 37;5,56357E+13;(57) 9763-3470;cliente37@example.com;Rua das Hortansias, 867;Ponta Grossa;64517322
+38;Cliente 38;1,40459E+13;(44) 3127-5526;cliente38@example.com;Rua das Araucarias, 198;Maringa;42574628
+39;Cliente 39;8,99224E+13;(51) 6995-5676;cliente39@example.com;Rua dos Ipes, 863;Sao Jose dos Pinhais;51512256
+40;Cliente 40;86757642435;(76) 3807-8511;cliente40@example.com;Avenida Brasil, 81;Londrina;71730819
+41;Cliente 41;05241401736;(90) 3337-2965;cliente41@example.com;Rua das Hortansias, 368;Foz do Iguacu;75635963
+42;Cliente 42;77708209834;(82) 1704-7800;cliente42@example.com;Avenida Brasil, 989;Maringa;19740086
+43;Cliente 43;9,73209E+13;(31) 8246-4675;cliente43@example.com;Rua XV de Novembro, 121;Maringa;48335327
+44;Cliente 44;62291126814;(78) 5651-4309;cliente44@example.com;Rua dos Ipes, 820;Sao Jose dos Pinhais;95909285
+45;Cliente 45;5,80863E+13;(73) 1657-5552;cliente45@example.com;Rua Sao Paulo, 883;Cascavel;83174729
+46;Cliente 46;23694246126;(57) 2203-1068;cliente46@example.com;Avenida Brasil, 579;Sao Jose dos Pinhais;67171053
+47;Cliente 47;39843072484;(49) 9077-1377;cliente47@example.com;Rua XV de Novembro, 933;Londrina;67043445
+48;Cliente 48;42681147612;(16) 3488-3520;cliente48@example.com;Avenida Brasil, 34;Araucaria;13698868
+49;Cliente 49;39044488341;(77) 1228-1884;cliente49@example.com;Rua Tiradentes, 837;Pinhais;19636784
+50;Cliente 50;82292569604;(71) 8961-5665;cliente50@example.com;Rua das Hortansias, 648;Araucaria;29724813
+51;Cliente 51;9,531E+13;(46) 7743-4392;cliente51@example.com;Rua das Araucarias, 884;Sao Jose dos Pinhais;00909583
+52;Cliente 52;4,49968E+13;(32) 5089-8453;cliente52@example.com;Rua XV de Novembro, 502;Maringa;67141712
+53;Cliente 53;8,70065E+13;(70) 5530-5016;cliente53@example.com;Rua Sao Paulo, 682;Colombo;39111703
+54;Cliente 54;96873967173;(79) 4923-8075;cliente54@example.com;Avenida Marechal Floriano, 90;Colombo;04020841
+55;Cliente 55;3,47699E+13;(49) 2008-1698;cliente55@example.com;Avenida Marechal Floriano, 60;Londrina;63402581
+56;Cliente 56;9,17918E+13;(75) 4483-5708;cliente56@example.com;Rua das Hortansias, 33;Araucaria;90609927
+57;Cliente 57;6,67273E+13;(76) 5464-7064;cliente57@example.com;Rua das Araucarias, 549;Cascavel;17062674
+58;Cliente 58;25434153986;(51) 9707-3016;cliente58@example.com;Rua Sao Paulo, 842;Ponta Grossa;35593571
+59;Cliente 59;06274328197;(37) 1229-4615;cliente59@example.com;Rua dos Ipes, 488;Foz do Iguacu;68195121
+60;Cliente 60;19959418398;(35) 2386-3735;cliente60@example.com;Rua das Palmeiras, 546;Londrina;98879449
+61;Cliente 61;7,73947E+13;(59) 7376-7817;cliente61@example.com;Avenida Brasil, 203;Maringa;47741489
+62;Cliente 62;8,25405E+13;(25) 1715-3807;cliente62@example.com;Rua das Hortansias, 597;Ponta Grossa;15078914
+63;Cliente 63;05387586043087;(77) 5157-3090;cliente63@example.com;Rua das Palmeiras, 854;Sao Jose dos Pinhais;26839314
+64;Cliente 64;05073432175;(29) 2241-2260;cliente64@example.com;Avenida Marechal Floriano, 251;Maringa;27506698
+65;Cliente 65;6,71905E+13;(60) 1068-9765;cliente65@example.com;Avenida Brasil, 83;Londrina;10962328
+66;Cliente 66;04089181334532;(13) 3887-2406;cliente66@example.com;Rua Sao Paulo, 917;Maringa;34005543
+67;Cliente 67;3,37653E+13;(52) 2155-9492;cliente67@example.com;Rua Sao Paulo, 467;Colombo;14861617
+68;Cliente 68;03155748395;(89) 5031-1907;cliente68@example.com;Rua dos Ipes, 231;Maringa;30424246
+69;Cliente 69;4,4827E+13;(62) 8496-1277;cliente69@example.com;Rua Tiradentes, 863;Araucaria;78755329
+70;Cliente 70;71719546505;(89) 7202-6781;cliente70@example.com;Rua dos Ipes, 216;Ponta Grossa;81909408
+71;Cliente 71;57764871450;(49) 5272-5142;cliente71@example.com;Rua XV de Novembro, 667;Foz do Iguacu;43666479
+72;Cliente 72;1,92908E+13;(84) 8963-2892;cliente72@example.com;Rua das Flores, 416;Cascavel;47048981
+73;Cliente 73;1,28608E+13;(48) 3361-6790;cliente73@example.com;Rua das Palmeiras, 413;Ponta Grossa;31984956
+74;Cliente 74;15642009188;(62) 3280-4955;cliente74@example.com;Rua Tiradentes, 684;Cascavel;31401176
+75;Cliente 75;83049743635;(17) 1504-8286;cliente75@example.com;Rua dos Ipes, 602;Colombo;62612583
+76;Cliente 76;94986918309;(44) 7577-2915;cliente76@example.com;Rua das Hortansias, 147;Curitiba;83628801
+77;Cliente 77;4,64015E+13;(94) 3158-4956;cliente77@example.com;Rua das Palmeiras, 431;Sao Jose dos Pinhais;49731120
+78;Cliente 78;9,74925E+13;(44) 7723-8040;cliente78@example.com;Rua Sao Paulo, 703;Araucaria;44126555
+79;Cliente 79;54061132710;(13) 5569-7334;cliente79@example.com;Rua das Flores, 785;Ponta Grossa;81995053
+80;Cliente 80;5,27324E+13;(99) 9933-9672;cliente80@example.com;Rua dos Ipes, 792;Londrina;73490402
+81;Cliente 81;3,36244E+13;(66) 6150-4093;cliente81@example.com;Rua Sao Paulo, 206;Pinhais;87206156
+82;Cliente 82;26818622770;(97) 9747-6576;cliente82@example.com;Avenida Marechal Floriano, 738;Pinhais;18055037
+83;Cliente 83;21598225575;(21) 9457-9363;cliente83@example.com;Rua Tiradentes, 38;Londrina;30873590
+84;Cliente 84;97318432298;(13) 5007-9113;cliente84@example.com;Avenida Marechal Floriano, 667;Londrina;53479494
+85;Cliente 85;97933708423;(48) 5405-2372;cliente85@example.com;Rua das Palmeiras, 811;Maringa;04876886
+86;Cliente 86;3,84181E+13;(44) 2567-3155;cliente86@example.com;Rua Sao Paulo, 995;Colombo;73765374
+87;Cliente 87;63154300978;(62) 7415-9188;cliente87@example.com;Rua dos Ipes, 120;Sao Jose dos Pinhais;81032805
+88;Cliente 88;09659427504;(43) 7246-7610;cliente88@example.com;Rua Tiradentes, 646;Curitiba;08207390
+89;Cliente 89;05467439584066;(15) 7068-5710;cliente89@example.com;Rua das Palmeiras, 820;Curitiba;32595583
+90;Cliente 90;01652305544618;(15) 5667-1594;cliente90@example.com;Rua Sao Paulo, 625;Foz do Iguacu;93710883
+91;Cliente 91;42444463890;(19) 7504-9342;cliente91@example.com;Avenida Marechal Floriano, 275;Pinhais;28110860
+92;Cliente 92;92768020101;(89) 8459-5520;cliente92@example.com;Rua das Flores, 733;Cascavel;37389666
+93;Cliente 93;1,66608E+13;(35) 7558-7621;cliente93@example.com;Rua Tiradentes, 713;Colombo;74410176
+94;Cliente 94;06934060870993;(82) 7904-5215;cliente94@example.com;Avenida Brasil, 917;Colombo;71685643
+95;Cliente 95;4,16211E+13;(28) 9895-3595;cliente95@example.com;Rua das Flores, 547;Ponta Grossa;91344055
+96;Cliente 96;7,88489E+13;(57) 3704-5365;cliente96@example.com;Rua das Hortansias, 201;Pinhais;42996627
+97;Cliente 97;89368327660;(90) 1879-4832;cliente97@example.com;Rua Tiradentes, 926;Foz do Iguacu;50294317
+98;Cliente 98;7,43747E+13;(59) 5348-6209;cliente98@example.com;Avenida Marechal Floriano, 982;Colombo;69550013
+99;Cliente 99;7,80169E+13;(65) 2584-4892;cliente99@example.com;Rua dos Ipes, 240;Ponta Grossa;45736748
+100;Cliente 100;5,91562E+13;(44) 5662-2675;cliente100@example.com;Rua das Flores, 926;Cascavel;47013987
+101;Cliente 101;64425306519;(59) 8194-2371;cliente101@example.com;Rua dos Ipes, 145;Foz do Iguacu;04954136
+102;Cliente 102;6,94705E+13;(41) 1661-2916;cliente102@example.com;Rua XV de Novembro, 696;Foz do Iguacu;81230837
+103;Cliente 103;5,99552E+13;(91) 4199-9851;cliente103@example.com;Rua dos Ipes, 690;Cascavel;14762568
+104;Cliente 104;41782874550;(46) 3732-8616;cliente104@example.com;Avenida Brasil, 66;Sao Jose dos Pinhais;10163044
+105;Cliente 105;68419450135;(65) 8544-3064;cliente105@example.com;Avenida Marechal Floriano, 472;Cascavel;48564756
+106;Cliente 106;39347004522;(17) 6532-7196;cliente106@example.com;Rua das Flores, 178;Londrina;95598184
+107;Cliente 107;8,08245E+13;(15) 1746-8151;cliente107@example.com;Avenida Marechal Floriano, 741;Cascavel;62952196
+108;Cliente 108;2,69772E+13;(85) 2631-9298;cliente108@example.com;Rua XV de Novembro, 755;Araucaria;73516923
+109;Cliente 109;7,98171E+13;(36) 7696-6015;cliente109@example.com;Rua XV de Novembro, 532;Maringa;85128442
+110;Cliente 110;72345764098;(59) 1509-1462;cliente110@example.com;Rua Tiradentes, 1000;Colombo;32877569
+111;Cliente 111;9,22086E+13;(66) 8067-4972;cliente111@example.com;Rua XV de Novembro, 853;Ponta Grossa;07488407
+112;Cliente 112;21177398077;(92) 2350-1145;cliente112@example.com;Rua das Palmeiras, 373;Ponta Grossa;52344835
+113;Cliente 113;8,59232E+13;(52) 2814-5498;cliente113@example.com;Rua XV de Novembro, 230;Maringa;82918201
+114;Cliente 114;50303219861;(93) 6792-5376;cliente114@example.com;Rua Sao Paulo, 820;Curitiba;38496617
+115;Cliente 115;91276289166;(33) 9568-7486;cliente115@example.com;Rua das Flores, 655;Maringa;39199769
+116;Cliente 116;66203756029;(51) 8730-1494;cliente116@example.com;Rua das Hortansias, 57;Colombo;82724942
+117;Cliente 117;70657015480;(21) 3492-4002;cliente117@example.com;Rua Tiradentes, 252;Londrina;96679306
+118;Cliente 118;48782554833;(77) 5722-7138;cliente118@example.com;Rua das Araucarias, 452;Colombo;27100022
+119;Cliente 119;4,96898E+13;(94) 5349-3334;cliente119@example.com;Rua XV de Novembro, 376;Maringa;95781331
+120;Cliente 120;82986999452;(89) 8248-7485;cliente120@example.com;Rua das Araucarias, 589;Sao Jose dos Pinhais;26053292
+121;Cliente 121;35905188061;(79) 3790-7647;cliente121@example.com;Rua das Araucarias, 993;Maringa;02368077
+122;Cliente 122;5,03978E+13;(27) 3627-2541;cliente122@example.com;Rua XV de Novembro, 175;Curitiba;02007605
+123;Cliente 123;06699075032;(74) 5972-7912;cliente123@example.com;Avenida Brasil, 973;Colombo;44376446
+124;Cliente 124;95291971984;(86) 2009-7745;cliente124@example.com;Rua das Hortansias, 662;Pinhais;29214150
+125;Cliente 125;04469679934;(18) 3730-5900;cliente125@example.com;Rua dos Ipes, 389;Araucaria;99981095
+126;Cliente 126;9,43281E+13;(13) 3826-8512;cliente126@example.com;Avenida Brasil, 221;Pinhais;54741912
+127;Cliente 127;6,09209E+13;(77) 9332-1307;cliente127@example.com;Rua dos Ipes, 208;Curitiba;44032081
+128;Cliente 128;6,57947E+13;(22) 4436-1108;cliente128@example.com;Avenida Marechal Floriano, 472;Ponta Grossa;68226842
+129;Cliente 129;78971053413;(66) 1951-3377;cliente129@example.com;Rua das Hortansias, 384;Cascavel;39742508
+130;Cliente 130;02023137331;(90) 1059-2325;cliente130@example.com;Rua das Flores, 26;Maringa;12913353
+131;Cliente 131;3,23329E+13;(44) 3366-3337;cliente131@example.com;Rua Sao Paulo, 801;Pinhais;55097642
+132;Cliente 132;02687030526;(87) 8952-3744;cliente132@example.com;Avenida Brasil, 576;Pinhais;48917734
+133;Cliente 133;31368305604;(28) 8643-8356;cliente133@example.com;Rua Sao Paulo, 9;Maringa;53732437
+134;Cliente 134;47066202203;(55) 4114-1991;cliente134@example.com;Rua das Palmeiras, 883;Foz do Iguacu;92086797
+135;Cliente 135;8,37677E+13;(94) 4651-2205;cliente135@example.com;Rua das Araucarias, 933;Colombo;56938961
+136;Cliente 136;3,05861E+13;(32) 9388-1401;cliente136@example.com;Rua das Araucarias, 793;Foz do Iguacu;89376706
+137;Cliente 137;7,58321E+13;(17) 7535-5009;cliente137@example.com;Rua das Hortansias, 741;Araucaria;04461272
