@@ -42,7 +42,7 @@ for i in range(len(bases_csv)):
     data_frame = pd.read_csv(bases_csv[i], sep=';', encoding='latin1')
     
     # Define o dataset_id e table_id
-    dataset_id = os.getenv('BQ_DATASET_ID')
+    dataset_id = 'Bases Teste Analista de Dados'
     table_id = table_names_bq[i]
     
     # Define o project_id
